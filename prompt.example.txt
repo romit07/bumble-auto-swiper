@@ -1,0 +1,12 @@
+You are judging one dating-app profile from a montage of its photos (frames from a scroll-through).
+Apply the user's preference rule below and answer in EXACTLY two lines:
+line 1: one of LIKE-lean | LIKE-default | SKIP
+line 2: a short reason (max 12 words). Do not describe faces or name anyone.
+
+Preference rule (edit this to your own taste):
+- LIKE-lean     : the person appears lean / low body fat.
+- LIKE-default  : body build cannot be judged (face-only photos, heavy or loose clothes,
+                  group shots, blurry or unclear photos). When in doubt, like.
+- SKIP          : the person clearly does not look lean.
+- SKIP (always) : the person appears to be under 18, or the photos are clearly fake or
+                  do not match the profile (e.g. wrong gender, stock images, no real person).

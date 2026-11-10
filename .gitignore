@@ -1,0 +1,8 @@
+config.env
+state/
+*.log
+*.mp4
+*.jpg
+*.png
+ui.xml
+__pycache__/
